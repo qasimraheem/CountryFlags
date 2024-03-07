@@ -1,0 +1,1501 @@
+[
+  {
+    "name": "Afghanistan",
+    "isoCode": "AF",
+    "flag": "🇦🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AF.svg"
+  },
+  {
+    "name": "Aland Islands",
+    "isoCode": "AX",
+    "flag": "🇦🇽",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AX.svg"
+  },
+  {
+    "name": "Albania",
+    "isoCode": "AL",
+    "flag": "🇦🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AL.svg"
+  },
+  {
+    "name": "Algeria",
+    "isoCode": "DZ",
+    "flag": "🇩🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/DZ.svg"
+  },
+  {
+    "name": "American Samoa",
+    "isoCode": "AS",
+    "flag": "🇦🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AS.svg"
+  },
+  {
+    "name": "Andorra",
+    "isoCode": "AD",
+    "flag": "🇦🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AD.svg"
+  },
+  {
+    "name": "Angola",
+    "isoCode": "AO",
+    "flag": "🇦🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AO.svg"
+  },
+  {
+    "name": "Anguilla",
+    "isoCode": "AI",
+    "flag": "🇦🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AI.svg"
+  },
+  {
+    "name": "Antarctica",
+    "isoCode": "AQ",
+    "flag": "🇦🇶",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AQ.svg"
+  },
+  {
+    "name": "Antigua And Barbuda",
+    "isoCode": "AG",
+    "flag": "🇦🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AG.svg"
+  },
+  {
+    "name": "Argentina",
+    "isoCode": "AR",
+    "flag": "🇦🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AR.svg"
+  },
+  {
+    "name": "Armenia",
+    "isoCode": "AM",
+    "flag": "🇦🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AM.svg"
+  },
+  {
+    "name": "Aruba",
+    "isoCode": "AW",
+    "flag": "🇦🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AW.svg"
+  },
+  {
+    "name": "Australia",
+    "isoCode": "AU",
+    "flag": "🇦🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AU.svg"
+  },
+  {
+    "name": "Austria",
+    "isoCode": "AT",
+    "flag": "🇦🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AT.svg"
+  },
+  {
+    "name": "Azerbaijan",
+    "isoCode": "AZ",
+    "flag": "🇦🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AZ.svg"
+  },
+  {
+    "name": "The Bahamas",
+    "isoCode": "BS",
+    "flag": "🇧🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BS.svg"
+  },
+  {
+    "name": "Bahrain",
+    "isoCode": "BH",
+    "flag": "🇧🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BH.svg"
+  },
+  {
+    "name": "Bangladesh",
+    "isoCode": "BD",
+    "flag": "🇧🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BD.svg"
+  },
+  {
+    "name": "Barbados",
+    "isoCode": "BB",
+    "flag": "🇧🇧",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BB.svg"
+  },
+  {
+    "name": "Belarus",
+    "isoCode": "BY",
+    "flag": "🇧🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BY.svg"
+  },
+  {
+    "name": "Belgium",
+    "isoCode": "BE",
+    "flag": "🇧🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BE.svg"
+  },
+  {
+    "name": "Belize",
+    "isoCode": "BZ",
+    "flag": "🇧🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BZ.svg"
+  },
+  {
+    "name": "Benin",
+    "isoCode": "BJ",
+    "flag": "🇧🇯",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BJ.svg"
+  },
+  {
+    "name": "Bermuda",
+    "isoCode": "BM",
+    "flag": "🇧🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BM.svg"
+  },
+  {
+    "name": "Bhutan",
+    "isoCode": "BT",
+    "flag": "🇧🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BT.svg"
+  },
+  {
+    "name": "Bolivia",
+    "isoCode": "BO",
+    "flag": "🇧🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BO.svg"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "isoCode": "BA",
+    "flag": "🇧🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BA.svg"
+  },
+  {
+    "name": "Botswana",
+    "isoCode": "BW",
+    "flag": "🇧🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BW.svg"
+  },
+  {
+    "name": "Bouvet Island",
+    "isoCode": "BV",
+    "flag": "🇧🇻",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BV.svg"
+  },
+  {
+    "name": "Brazil",
+    "isoCode": "BR",
+    "flag": "🇧🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BR.svg"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "isoCode": "IO",
+    "flag": "🇮🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IO.svg"
+  },
+  {
+    "name": "Brunei",
+    "isoCode": "BN",
+    "flag": "🇧🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BN.svg"
+  },
+  {
+    "name": "Bulgaria",
+    "isoCode": "BG",
+    "flag": "🇧🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BG.svg"
+  },
+  {
+    "name": "Burkina Faso",
+    "isoCode": "BF",
+    "flag": "🇧🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BF.svg"
+  },
+  {
+    "name": "Burundi",
+    "isoCode": "BI",
+    "flag": "🇧🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BI.svg"
+  },
+  {
+    "name": "Cambodia",
+    "isoCode": "KH",
+    "flag": "🇰🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KH.svg"
+  },
+  {
+    "name": "Cameroon",
+    "isoCode": "CM",
+    "flag": "🇨🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CM.svg"
+  },
+  {
+    "name": "Canada",
+    "isoCode": "CA",
+    "flag": "🇨🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CA.svg"
+  },
+  {
+    "name": "Cape Verde",
+    "isoCode": "CV",
+    "flag": "🇨🇻",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CV.svg"
+  },
+  {
+    "name": "Cayman Islands",
+    "isoCode": "KY",
+    "flag": "🇰🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KY.svg"
+  },
+  {
+    "name": "Central African Republic",
+    "isoCode": "CF",
+    "flag": "🇨🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CF.svg"
+  },
+  {
+    "name": "Chad",
+    "isoCode": "TD",
+    "flag": "🇹🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TD.svg"
+  },
+  {
+    "name": "Chile",
+    "isoCode": "CL",
+    "flag": "🇨🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CL.svg"
+  },
+  {
+    "name": "China",
+    "isoCode": "CN",
+    "flag": "🇨🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CN.svg"
+  },
+  {
+    "name": "Christmas Island",
+    "isoCode": "CX",
+    "flag": "🇨🇽",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CX.svg"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "isoCode": "CC",
+    "flag": "🇨🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CC.svg"
+  },
+  {
+    "name": "Colombia",
+    "isoCode": "CO",
+    "flag": "🇨🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CO.svg"
+  },
+  {
+    "name": "Comoros",
+    "isoCode": "KM",
+    "flag": "🇰🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KM.svg"
+  },
+  {
+    "name": "Congo",
+    "isoCode": "CG",
+    "flag": "🇨🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CG.svg"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "isoCode": "CD",
+    "flag": "🇨🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CD.svg"
+  },
+  {
+    "name": "Cook Islands",
+    "isoCode": "CK",
+    "flag": "🇨🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CK.svg"
+  },
+  {
+    "name": "Costa Rica",
+    "isoCode": "CR",
+    "flag": "🇨🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CR.svg"
+  },
+  {
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "isoCode": "CI",
+    "flag": "🇨🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CI.svg"
+  },
+  {
+    "name": "Croatia",
+    "isoCode": "HR",
+    "flag": "🇭🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/HR.svg"
+  },
+  {
+    "name": "Cuba",
+    "isoCode": "CU",
+    "flag": "🇨🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CU.svg"
+  },
+  {
+    "name": "Cyprus",
+    "isoCode": "CY",
+    "flag": "🇨🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CY.svg"
+  },
+  {
+    "name": "Czech Republic",
+    "isoCode": "CZ",
+    "flag": "🇨🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CZ.svg"
+  },
+  {
+    "name": "Denmark",
+    "isoCode": "DK",
+    "flag": "🇩🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/DK.svg"
+  },
+  {
+    "name": "Djibouti",
+    "isoCode": "DJ",
+    "flag": "🇩🇯",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/DJ.svg"
+  },
+  {
+    "name": "Dominica",
+    "isoCode": "DM",
+    "flag": "🇩🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/DM.svg"
+  },
+  {
+    "name": "Dominican Republic",
+    "isoCode": "DO",
+    "flag": "🇩🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/DO.svg"
+  },
+  {
+    "name": "East Timor",
+    "isoCode": "TL",
+    "flag": "🇹🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TL.svg"
+  },
+  {
+    "name": "Ecuador",
+    "isoCode": "EC",
+    "flag": "🇪🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/EC.svg"
+  },
+  {
+    "name": "Egypt",
+    "isoCode": "EG",
+    "flag": "🇪🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/EG.svg"
+  },
+  {
+    "name": "El Salvador",
+    "isoCode": "SV",
+    "flag": "🇸🇻",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SV.svg"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "isoCode": "GQ",
+    "flag": "🇬🇶",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GQ.svg"
+  },
+  {
+    "name": "Eritrea",
+    "isoCode": "ER",
+    "flag": "🇪🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ER.svg"
+  },
+  {
+    "name": "Estonia",
+    "isoCode": "EE",
+    "flag": "🇪🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/EE.svg"
+  },
+  {
+    "name": "Ethiopia",
+    "isoCode": "ET",
+    "flag": "🇪🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ET.svg"
+  },
+  {
+    "name": "Falkland Islands",
+    "isoCode": "FK",
+    "flag": "🇫🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/FK.svg"
+  },
+  {
+    "name": "Faroe Islands",
+    "isoCode": "FO",
+    "flag": "🇫🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/FO.svg"
+  },
+  {
+    "name": "Fiji Islands",
+    "isoCode": "FJ",
+    "flag": "🇫🇯",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/FJ.svg"
+  },
+  {
+    "name": "Finland",
+    "isoCode": "FI",
+    "flag": "🇫🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/FI.svg"
+  },
+  {
+    "name": "France",
+    "isoCode": "FR",
+    "flag": "🇫🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/FR.svg"
+  },
+  {
+    "name": "French Guiana",
+    "isoCode": "GF",
+    "flag": "🇬🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GF.svg"
+  },
+  {
+    "name": "French Polynesia",
+    "isoCode": "PF",
+    "flag": "🇵🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PF.svg"
+  },
+  {
+    "name": "French Southern Territories",
+    "isoCode": "TF",
+    "flag": "🇹🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TF.svg"
+  },
+  {
+    "name": "Gabon",
+    "isoCode": "GA",
+    "flag": "🇬🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GA.svg"
+  },
+  {
+    "name": "The Gambia",
+    "isoCode": "GM",
+    "flag": "🇬🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GM.svg"
+  },
+  {
+    "name": "Georgia",
+    "isoCode": "GE",
+    "flag": "🇬🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GE.svg"
+  },
+  {
+    "name": "Germany",
+    "isoCode": "DE",
+    "flag": "🇩🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/DE.svg"
+  },
+  {
+    "name": "Ghana",
+    "isoCode": "GH",
+    "flag": "🇬🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GH.svg"
+  },
+  {
+    "name": "Gibraltar",
+    "isoCode": "GI",
+    "flag": "🇬🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GI.svg"
+  },
+  {
+    "name": "Greece",
+    "isoCode": "GR",
+    "flag": "🇬🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GR.svg"
+  },
+  {
+    "name": "Greenland",
+    "isoCode": "GL",
+    "flag": "🇬🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GL.svg"
+  },
+  {
+    "name": "Grenada",
+    "isoCode": "GD",
+    "flag": "🇬🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GD.svg"
+  },
+  {
+    "name": "Guadeloupe",
+    "isoCode": "GP",
+    "flag": "🇬🇵",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GP.svg"
+  },
+  {
+    "name": "Guam",
+    "isoCode": "GU",
+    "flag": "🇬🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GU.svg"
+  },
+  {
+    "name": "Guatemala",
+    "isoCode": "GT",
+    "flag": "🇬🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GT.svg"
+  },
+  {
+    "name": "Guernsey and Alderney",
+    "isoCode": "GG",
+    "flag": "🇬🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GG.svg"
+  },
+  {
+    "name": "Guinea",
+    "isoCode": "GN",
+    "flag": "🇬🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GN.svg"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "isoCode": "GW",
+    "flag": "🇬🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GW.svg"
+  },
+  {
+    "name": "Guyana",
+    "isoCode": "GY",
+    "flag": "🇬🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GY.svg"
+  },
+  {
+    "name": "Haiti",
+    "isoCode": "HT",
+    "flag": "🇭🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/HT.svg"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "isoCode": "HM",
+    "flag": "🇭🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/HM.svg"
+  },
+  {
+    "name": "Honduras",
+    "isoCode": "HN",
+    "flag": "🇭🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/HN.svg"
+  },
+  {
+    "name": "Hong Kong S.A.R.",
+    "isoCode": "HK",
+    "flag": "🇭🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/HK.svg"
+  },
+  {
+    "name": "Hungary",
+    "isoCode": "HU",
+    "flag": "🇭🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/HU.svg"
+  },
+  {
+    "name": "Iceland",
+    "isoCode": "IS",
+    "flag": "🇮🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IS.svg"
+  },
+  {
+    "name": "India",
+    "isoCode": "IN",
+    "flag": "🇮🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IN.svg"
+  },
+  {
+    "name": "Indonesia",
+    "isoCode": "ID",
+    "flag": "🇮🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ID.svg"
+  },
+  {
+    "name": "Iran",
+    "isoCode": "IR",
+    "flag": "🇮🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IR.svg"
+  },
+  {
+    "name": "Iraq",
+    "isoCode": "IQ",
+    "flag": "🇮🇶",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IQ.svg"
+  },
+  {
+    "name": "Ireland",
+    "isoCode": "IE",
+    "flag": "🇮🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IE.svg"
+  },
+  {
+    "name": "Israel",
+    "isoCode": "IL",
+    "flag": "🇮🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IL.svg"
+  },
+  {
+    "name": "Italy",
+    "isoCode": "IT",
+    "flag": "🇮🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IT.svg"
+  },
+  {
+    "name": "Jamaica",
+    "isoCode": "JM",
+    "flag": "🇯🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/JM.svg"
+  },
+  {
+    "name": "Japan",
+    "isoCode": "JP",
+    "flag": "🇯🇵",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/JP.svg"
+  },
+  {
+    "name": "Jersey",
+    "isoCode": "JE",
+    "flag": "🇯🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/JE.svg"
+  },
+  {
+    "name": "Jordan",
+    "isoCode": "JO",
+    "flag": "🇯🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/JO.svg"
+  },
+  {
+    "name": "Kazakhstan",
+    "isoCode": "KZ",
+    "flag": "🇰🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KZ.svg"
+  },
+  {
+    "name": "Kenya",
+    "isoCode": "KE",
+    "flag": "🇰🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KE.svg"
+  },
+  {
+    "name": "Kiribati",
+    "isoCode": "KI",
+    "flag": "🇰🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KI.svg"
+  },
+  {
+    "name": "North Korea",
+    "isoCode": "KP",
+    "flag": "🇰🇵",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KP.svg"
+  },
+  {
+    "name": "South Korea",
+    "isoCode": "KR",
+    "flag": "🇰🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KR.svg"
+  },
+  {
+    "name": "Kuwait",
+    "isoCode": "KW",
+    "flag": "🇰🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KW.svg"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "isoCode": "KG",
+    "flag": "🇰🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KG.svg"
+  },
+  {
+    "name": "Laos",
+    "isoCode": "LA",
+    "flag": "🇱🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LA.svg"
+  },
+  {
+    "name": "Latvia",
+    "isoCode": "LV",
+    "flag": "🇱🇻",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LV.svg"
+  },
+  {
+    "name": "Lebanon",
+    "isoCode": "LB",
+    "flag": "🇱🇧",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LB.svg"
+  },
+  {
+    "name": "Lesotho",
+    "isoCode": "LS",
+    "flag": "🇱🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LS.svg"
+  },
+  {
+    "name": "Liberia",
+    "isoCode": "LR",
+    "flag": "🇱🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LR.svg"
+  },
+  {
+    "name": "Libya",
+    "isoCode": "LY",
+    "flag": "🇱🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LY.svg"
+  },
+  {
+    "name": "Liechtenstein",
+    "isoCode": "LI",
+    "flag": "🇱🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LI.svg"
+  },
+  {
+    "name": "Lithuania",
+    "isoCode": "LT",
+    "flag": "🇱🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LT.svg"
+  },
+  {
+    "name": "Luxembourg",
+    "isoCode": "LU",
+    "flag": "🇱🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LU.svg"
+  },
+  {
+    "name": "Macau S.A.R.",
+    "isoCode": "MO",
+    "flag": "🇲🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MO.svg"
+  },
+  {
+    "name": "Macedonia",
+    "isoCode": "MK",
+    "flag": "🇲🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MK.svg"
+  },
+  {
+    "name": "Madagascar",
+    "isoCode": "MG",
+    "flag": "🇲🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MG.svg"
+  },
+  {
+    "name": "Malawi",
+    "isoCode": "MW",
+    "flag": "🇲🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MW.svg"
+  },
+  {
+    "name": "Malaysia",
+    "isoCode": "MY",
+    "flag": "🇲🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MY.svg"
+  },
+  {
+    "name": "Maldives",
+    "isoCode": "MV",
+    "flag": "🇲🇻",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MV.svg"
+  },
+  {
+    "name": "Mali",
+    "isoCode": "ML",
+    "flag": "🇲🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ML.svg"
+  },
+  {
+    "name": "Malta",
+    "isoCode": "MT",
+    "flag": "🇲🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MT.svg"
+  },
+  {
+    "name": "Man (Isle of)",
+    "isoCode": "IM",
+    "flag": "🇮🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/IM.svg"
+  },
+  {
+    "name": "Marshall Islands",
+    "isoCode": "MH",
+    "flag": "🇲🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MH.svg"
+  },
+  {
+    "name": "Martinique",
+    "isoCode": "MQ",
+    "flag": "🇲🇶",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MQ.svg"
+  },
+  {
+    "name": "Mauritania",
+    "isoCode": "MR",
+    "flag": "🇲🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MR.svg"
+  },
+  {
+    "name": "Mauritius",
+    "isoCode": "MU",
+    "flag": "🇲🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MU.svg"
+  },
+  {
+    "name": "Mayotte",
+    "isoCode": "YT",
+    "flag": "🇾🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/YT.svg"
+  },
+  {
+    "name": "Mexico",
+    "isoCode": "MX",
+    "flag": "🇲🇽",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MX.svg"
+  },
+  {
+    "name": "Micronesia",
+    "isoCode": "FM",
+    "flag": "🇫🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/FM.svg"
+  },
+  {
+    "name": "Moldova",
+    "isoCode": "MD",
+    "flag": "🇲🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MD.svg"
+  },
+  {
+    "name": "Monaco",
+    "isoCode": "MC",
+    "flag": "🇲🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MC.svg"
+  },
+  {
+    "name": "Mongolia",
+    "isoCode": "MN",
+    "flag": "🇲🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MN.svg"
+  },
+  {
+    "name": "Montenegro",
+    "isoCode": "ME",
+    "flag": "🇲🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ME.svg"
+  },
+  {
+    "name": "Montserrat",
+    "isoCode": "MS",
+    "flag": "🇲🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MS.svg"
+  },
+  {
+    "name": "Morocco",
+    "isoCode": "MA",
+    "flag": "🇲🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MA.svg"
+  },
+  {
+    "name": "Mozambique",
+    "isoCode": "MZ",
+    "flag": "🇲🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MZ.svg"
+  },
+  {
+    "name": "Myanmar",
+    "isoCode": "MM",
+    "flag": "🇲🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MM.svg"
+  },
+  {
+    "name": "Namibia",
+    "isoCode": "NA",
+    "flag": "🇳🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NA.svg"
+  },
+  {
+    "name": "Nauru",
+    "isoCode": "NR",
+    "flag": "🇳🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NR.svg"
+  },
+  {
+    "name": "Nepal",
+    "isoCode": "NP",
+    "flag": "🇳🇵",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NP.svg"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "flag": "🇧🇶",
+    "isoCode": "BQ"
+  },
+  {
+    "name": "Netherlands",
+    "isoCode": "NL",
+    "flag": "🇳🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NL.svg"
+  },
+  {
+    "name": "New Caledonia",
+    "isoCode": "NC",
+    "flag": "🇳🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NC.svg"
+  },
+  {
+    "name": "New Zealand",
+    "isoCode": "NZ",
+    "flag": "🇳🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NZ.svg"
+  },
+  {
+    "name": "Nicaragua",
+    "isoCode": "NI",
+    "flag": "🇳🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NI.svg"
+  },
+  {
+    "name": "Niger",
+    "isoCode": "NE",
+    "flag": "🇳🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NE.svg"
+  },
+  {
+    "name": "Nigeria",
+    "isoCode": "NG",
+    "flag": "🇳🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NG.svg"
+  },
+  {
+    "name": "Niue",
+    "isoCode": "NU",
+    "flag": "🇳🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NU.svg"
+  },
+  {
+    "name": "Norfolk Island",
+    "isoCode": "NF",
+    "flag": "🇳🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NF.svg"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "isoCode": "MP",
+    "flag": "🇲🇵",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MP.svg"
+  },
+  {
+    "name": "Norway",
+    "isoCode": "NO",
+    "flag": "🇳🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/NO.svg"
+  },
+  {
+    "name": "Oman",
+    "isoCode": "OM",
+    "flag": "🇴🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/OM.svg"
+  },
+  {
+    "name": "Pakistan",
+    "isoCode": "PK",
+    "flag": "🇵🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PK.svg"
+  },
+  {
+    "name": "Palau",
+    "isoCode": "PW",
+    "flag": "🇵🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PW.svg"
+  },
+  {
+    "name": "Palestinian Territory Occupied",
+    "isoCode": "PS",
+    "flag": "🇵🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PS.svg"
+  },
+  {
+    "name": "Panama",
+    "isoCode": "PA",
+    "flag": "🇵🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PA.svg"
+  },
+  {
+    "name": "Papua new Guinea",
+    "isoCode": "PG",
+    "flag": "🇵🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PG.svg"
+  },
+  {
+    "name": "Paraguay",
+    "isoCode": "PY",
+    "flag": "🇵🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PY.svg"
+  },
+  {
+    "name": "Peru",
+    "isoCode": "PE",
+    "flag": "🇵🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PE.svg"
+  },
+  {
+    "name": "Philippines",
+    "isoCode": "PH",
+    "flag": "🇵🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PH.svg"
+  },
+  {
+    "name": "Pitcairn Island",
+    "isoCode": "PN",
+    "flag": "🇵🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PN.svg"
+  },
+  {
+    "name": "Poland",
+    "isoCode": "PL",
+    "flag": "🇵🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PL.svg"
+  },
+  {
+    "name": "Portugal",
+    "isoCode": "PT",
+    "flag": "🇵🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PT.svg"
+  },
+  {
+    "name": "Puerto Rico",
+    "isoCode": "PR",
+    "flag": "🇵🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PR.svg"
+  },
+  {
+    "name": "Qatar",
+    "isoCode": "QA",
+    "flag": "🇶🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/QA.svg"
+  },
+  {
+    "name": "Reunion",
+    "isoCode": "RE",
+    "flag": "🇷🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/RE.svg"
+  },
+  {
+    "name": "Romania",
+    "isoCode": "RO",
+    "flag": "🇷🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/RO.svg"
+  },
+  {
+    "name": "Russia",
+    "isoCode": "RU",
+    "flag": "🇷🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/RU.svg"
+  },
+  {
+    "name": "Rwanda",
+    "isoCode": "RW",
+    "flag": "🇷🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/RW.svg"
+  },
+  {
+    "name": "Saint Helena",
+    "isoCode": "SH",
+    "flag": "🇸🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SH.svg"
+  },
+  {
+    "name": "Saint Kitts And Nevis",
+    "isoCode": "KN",
+    "flag": "🇰🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/KN.svg"
+  },
+  {
+    "name": "Saint Lucia",
+    "isoCode": "LC",
+    "flag": "🇱🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LC.svg"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "isoCode": "PM",
+    "flag": "🇵🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/PM.svg"
+  },
+  {
+    "name": "Saint Vincent And The Grenadines",
+    "isoCode": "VC",
+    "flag": "🇻🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VC.svg"
+  },
+  {
+    "name": "Saint-Barthelemy",
+    "isoCode": "BL",
+    "flag": "🇧🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/BL.svg"
+  },
+  {
+    "name": "Saint-Martin (French part)",
+    "isoCode": "MF",
+    "flag": "🇲🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/MF.svg"
+  },
+  {
+    "name": "Samoa",
+    "isoCode": "WS",
+    "flag": "🇼🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/WS.svg"
+  },
+  {
+    "name": "San Marino",
+    "isoCode": "SM",
+    "flag": "🇸🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SM.svg"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "isoCode": "ST",
+    "flag": "🇸🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ST.svg"
+  },
+  {
+    "name": "Saudi Arabia",
+    "isoCode": "SA",
+    "flag": "🇸🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SA.svg"
+  },
+  {
+    "name": "Senegal",
+    "isoCode": "SN",
+    "flag": "🇸🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SN.svg"
+  },
+  {
+    "name": "Serbia",
+    "isoCode": "RS",
+    "flag": "🇷🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/RS.svg"
+  },
+  {
+    "name": "Seychelles",
+    "isoCode": "SC",
+    "flag": "🇸🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SC.svg"
+  },
+  {
+    "name": "Sierra Leone",
+    "isoCode": "SL",
+    "flag": "🇸🇱",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SL.svg"
+  },
+  {
+    "name": "Singapore",
+    "isoCode": "SG",
+    "flag": "🇸🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SG.svg"
+  },
+  {
+    "name": "Slovakia",
+    "isoCode": "SK",
+    "flag": "🇸🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SK.svg"
+  },
+  {
+    "name": "Slovenia",
+    "isoCode": "SI",
+    "flag": "🇸🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SI.svg"
+  },
+  {
+    "name": "Solomon Islands",
+    "isoCode": "SB",
+    "flag": "🇸🇧",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SB.svg"
+  },
+  {
+    "name": "Somalia",
+    "isoCode": "SO",
+    "flag": "🇸🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SO.svg"
+  },
+  {
+    "name": "South Africa",
+    "isoCode": "ZA",
+    "flag": "🇿🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ZA.svg"
+  },
+  {
+    "name": "South Georgia",
+    "isoCode": "GS",
+    "flag": "🇬🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GS.svg"
+  },
+  {
+    "name": "South Sudan",
+    "isoCode": "SS",
+    "flag": "🇸🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SS.svg"
+  },
+  {
+    "name": "Spain",
+    "isoCode": "ES",
+    "flag": "🇪🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ES.svg"
+  },
+  {
+    "name": "Sri Lanka",
+    "isoCode": "LK",
+    "flag": "🇱🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/LK.svg"
+  },
+  {
+    "name": "Sudan",
+    "isoCode": "SD",
+    "flag": "🇸🇩",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SD.svg"
+  },
+  {
+    "name": "Suriname",
+    "isoCode": "SR",
+    "flag": "🇸🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SR.svg"
+  },
+  {
+    "name": "Svalbard And Jan Mayen Islands",
+    "isoCode": "SJ",
+    "flag": "🇸🇯",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SJ.svg"
+  },
+  {
+    "name": "Swaziland",
+    "isoCode": "SZ",
+    "flag": "🇸🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SZ.svg"
+  },
+  {
+    "name": "Sweden",
+    "isoCode": "SE",
+    "flag": "🇸🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SE.svg"
+  },
+  {
+    "name": "Switzerland",
+    "isoCode": "CH",
+    "flag": "🇨🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CH.svg"
+  },
+  {
+    "name": "Syria",
+    "isoCode": "SY",
+    "flag": "🇸🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SY.svg"
+  },
+  {
+    "name": "Taiwan",
+    "isoCode": "TW",
+    "flag": "🇹🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TW.svg"
+  },
+  {
+    "name": "Tajikistan",
+    "isoCode": "TJ",
+    "flag": "🇹🇯",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TJ.svg"
+  },
+  {
+    "name": "Tanzania",
+    "isoCode": "TZ",
+    "flag": "🇹🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TZ.svg"
+  },
+  {
+    "name": "Thailand",
+    "isoCode": "TH",
+    "flag": "🇹🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TH.svg"
+  },
+  {
+    "name": "Togo",
+    "isoCode": "TG",
+    "flag": "🇹🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TG.svg"
+  },
+  {
+    "name": "Tokelau",
+    "isoCode": "TK",
+    "flag": "🇹🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TK.svg"
+  },
+  {
+    "name": "Tonga",
+    "isoCode": "TO",
+    "flag": "🇹🇴",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TO.svg"
+  },
+  {
+    "name": "Trinidad And Tobago",
+    "isoCode": "TT",
+    "flag": "🇹🇹",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TT.svg"
+  },
+  {
+    "name": "Tunisia",
+    "isoCode": "TN",
+    "flag": "🇹🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TN.svg"
+  },
+  {
+    "name": "Turkey",
+    "isoCode": "TR",
+    "flag": "🇹🇷",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TR.svg"
+  },
+  {
+    "name": "Turkmenistan",
+    "isoCode": "TM",
+    "flag": "🇹🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TM.svg"
+  },
+  {
+    "name": "Turks And Caicos Islands",
+    "isoCode": "TC",
+    "flag": "🇹🇨",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TC.svg"
+  },
+  {
+    "name": "Tuvalu",
+    "isoCode": "TV",
+    "flag": "🇹🇻",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/TV.svg"
+  },
+  {
+    "name": "Uganda",
+    "isoCode": "UG",
+    "flag": "🇺🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/UG.svg"
+  },
+  {
+    "name": "Ukraine",
+    "isoCode": "UA",
+    "flag": "🇺🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/UA.svg"
+  },
+  {
+    "name": "United Arab Emirates",
+    "isoCode": "AE",
+    "flag": "🇦🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/AE.svg"
+  },
+  {
+    "name": "United Kingdom",
+    "isoCode": "GB",
+    "flag": "🇬🇧",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/GB.svg"
+  },
+  {
+    "name": "United States",
+    "isoCode": "US",
+    "flag": "🇺🇸",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/US.svg"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "isoCode": "UM",
+    "flag": "🇺🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/UM.svg"
+  },
+  {
+    "name": "Uruguay",
+    "isoCode": "UY",
+    "flag": "🇺🇾",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/UY.svg"
+  },
+  {
+    "name": "Uzbekistan",
+    "isoCode": "UZ",
+    "flag": "🇺🇿",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/UZ.svg"
+  },
+  {
+    "name": "Vanuatu",
+    "isoCode": "VU",
+    "flag": "🇻🇺",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VU.svg"
+  },
+  {
+    "name": "Vatican City State (Holy See)",
+    "isoCode": "VA",
+    "flag": "🇻🇦",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VA.svg"
+  },
+  {
+    "name": "Venezuela",
+    "isoCode": "VE",
+    "flag": "🇻🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VE.svg"
+  },
+  {
+    "name": "Vietnam",
+    "isoCode": "VN",
+    "flag": "🇻🇳",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VN.svg"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "isoCode": "VG",
+    "flag": "🇻🇬",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VG.svg"
+  },
+  {
+    "name": "Virgin Islands (US)",
+    "isoCode": "VI",
+    "flag": "🇻🇮",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/VI.svg"
+  },
+  {
+    "name": "Wallis And Futuna Islands",
+    "isoCode": "WF",
+    "flag": "🇼🇫",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/WF.svg"
+  },
+  {
+    "name": "Western Sahara",
+    "isoCode": "EH",
+    "flag": "🇪🇭",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/EH.svg"
+  },
+  {
+    "name": "Yemen",
+    "isoCode": "YE",
+    "flag": "🇾🇪",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/YE.svg"
+  },
+  {
+    "name": "Zambia",
+    "isoCode": "ZM",
+    "flag": "🇿🇲",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ZM.svg"
+  },
+  {
+    "name": "Zimbabwe",
+    "isoCode": "ZW",
+    "flag": "🇿🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/ZW.svg"
+  },
+  {
+    "name": "Kosovo",
+    "isoCode": "XK",
+    "flag": "🇽🇰",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/XK.svg"
+  },
+  {
+    "name": "Curaçao",
+    "isoCode": "CW",
+    "flag": "🇨🇼",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/CW.svg"
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "isoCode": "SX",
+    "flag": "🇸🇽",
+    "flagSvg": "https://raw.githubusercontent.com/qasimraheem/CountryFlags/main/flagsSvg/SX.svg"
+  }
+]
